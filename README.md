@@ -2,8 +2,11 @@
 
 Generate Random Data as CSV Format
 
-```config.toml
+Write configuration to config.toml
+
+config.toml
+```toml
 Latters = "0123456789abcde"
-Rows = 114514
+Rows = 1000000000
 Columns = [10, 20, 30, 40, 50]
 ```
